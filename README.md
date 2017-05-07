@@ -1,24 +1,10 @@
-# README
+### My Portfolio
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is a portfolio project. The webpages are made using HTML, CSS and responsive design.
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+### Design Process
+1. Mood Board
+2. Wireframing
+3. Deciding on variables, grouping of styles and pairing of variables.
+4. Coding
+5. Responsive Design
