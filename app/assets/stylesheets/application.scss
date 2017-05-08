@@ -17,7 +17,7 @@
 @import "bootstrap-sprockets";
 @import "bootstrap";
 @import url('https://fonts.googleapis.com/css?family=Roboto:400,400i,500,700,700i');
-@import url('https://fonts.googleapis.com/css?family=Lovers+Quarrel|Ruthie');
+@import url('https://fonts.googleapis.com/css?family=Ruthie');
 @import url('https://fonts.googleapis.com/css?family=Enriqueta');
 @import url('https://fonts.googleapis.com/css?family=Varela+Round');
 @import url('https://fonts.googleapis.com/css?family=Reenie+Beanie');
@@ -150,7 +150,7 @@ section {
     width: 100%;
 }
 .navigation {
-     padding-top: 15%;
+     padding-top: 10%;
      padding-bottom: 0;
 }
           .navigation ul {
@@ -207,6 +207,7 @@ section:nth-child(1) {
  background-position: center;
  background-repeat: no-repeat;
 }
+
 .top-header {
   padding: 1.5%;
 }
@@ -218,7 +219,7 @@ section:nth-child(1) {
   font-style: normal;
 }
 .title-align {
-     padding-top: 10%;
+     margin-top: 20%;
 }
 .logo-wrapper {
   // background: black;
@@ -340,13 +341,13 @@ section:nth-child(1) {
      text-align: center;
 }
 .work-right {
-background-color: $background-white;
-color: $text-black;
-padding-top: 15%;
+    background-color: $background-white;
+    color: $text-black;
+    padding-top: 15%;
 }
 .work-left {
-background-color: $background-grey;
-color: $text-white
+    background-color: $background-grey;
+    color: $text-white
 }
 
 .work-content {
