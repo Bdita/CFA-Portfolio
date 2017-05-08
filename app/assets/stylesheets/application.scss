@@ -102,7 +102,7 @@ $lineHeight-l: 1.6;
   font-size: $fontSize-m;
 }
 .text-big {
-  font-size: 75px;
+  font-size: 65px;
 }
 
 .centered {
@@ -122,7 +122,7 @@ font-family: $font-special;
      background: linear-gradient($background-grey, $background-yellow);
 }
 .cursive-font {
-  font-family: $font-cursive;
+  font-family:  'Ruthie', cursive;
 }
 
 body {
@@ -150,7 +150,7 @@ section {
     width: 100%;
 }
 .navigation {
-     padding-top: 10%;
+     padding-top: 12%;
      padding-bottom: 0;
 }
           .navigation ul {
@@ -219,7 +219,7 @@ section:nth-child(1) {
   font-style: normal;
 }
 .title-align {
-     margin-top: 20%;
+     margin-top: 18%;
 }
 .logo-wrapper {
   // background: black;
@@ -453,8 +453,8 @@ section:nth-child(1) {
           padding-top: 70%;
      }
      .about-left {
-         height: 200%;
-         overflow: auto;
+         height: 250%;
+         overflow: visible;
      }
      .work-right {
          height: 100vh;
